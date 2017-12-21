@@ -1,5 +1,5 @@
 # rae-lite
-Lite version of tsur/node-rae
+Lite version of [tsur/node-rae](https://github.com/tsur/node-rae)
 
 ## Usage
 
