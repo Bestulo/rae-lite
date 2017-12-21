@@ -6,4 +6,5 @@ Lite version of tsur/node-rae
 ```const Rae = require('../rae')
 const rae = new Rae()
 
-rae.create().search('casa').then(console.log)```
+rae.create().search('casa').then(console.log)
+```
