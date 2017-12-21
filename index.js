@@ -26,7 +26,11 @@ const NoChallengeScriptFoundError = () =>
 
 // utils
 
+<<<<<<< HEAD
 const wordRegex = /^[a-zñáéíóúü]+$/i;
+=======
+const wordRegex = /^[a-z]+$/i;
+>>>>>>> fc99532533ff59f77f4695dd5cf016ba3d7b5c9d
 
 const isAWord = word =>
     isString(word) && !isEmpty(word) && wordRegex.test(word);
