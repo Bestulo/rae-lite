@@ -1,4 +1,4 @@
-const Rae = require('../rae')
+const Rae = require('rae-lite')
 const rae = new Rae()
 
 rae.create()
